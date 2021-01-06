@@ -1,0 +1,26 @@
+Food
+5ee0f44f92f45a355c10d370 Cumi
+5ee0f7ffa56af75f58d5452d Tuna
+5ee8e9d686111f1a14c79867 Gurita
+
+Category
+5ee0fb71c1d3b8563ca7b90f Family
+5ee25dd4cc0cef3660b65532 Reguler
+
+Level
+5ee0fe79230899075c245692 Tidak Pedas
+5ee0fe82230899075c245693 Sedang
+5ee0fe8b230899075c245694 Pedas
+
+Package
+5ee0ff9c230899075c245695 Vacum
+5ee0ffa1230899075c245696 Botol
+
+Item
+5ee8fa7decc5d55764b33c29
+5ee8fa9becc5d55764b33c2a
+5ee8fdcb67f0ac5a183a07b6
+
+
+
+
